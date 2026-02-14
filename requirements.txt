@@ -1,1 +1,14 @@
-pip @ file:///C:/actions-runner/python-build-standalone/python-build-standalone/build/pip-25.3-py3-none-any.whl
+langchain
+langchain-community
+langchain-ollama
+langchain-qdrant
+langgraph
+langgraph-checkpoint-sqlite
+qdrant-client
+fastembed
+openpyxl
+pandas
+numpy
+matplotlib
+scikit-learn
+notebook
